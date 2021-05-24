@@ -1,1 +1,7 @@
-# Wanted_Pre_Onboarding_Individual_Repo
+지난 3주 Working Process
+월-수: 개인 코드 작성 
+수-금: 
+1. 모든 팀원 코드, 논리 정리. 
+2. 개기인의 코드가 최대한 반영될 수 있게 팀원간의 조율.
+3. Github, gist 어려워하는 팀원들 튜터링, 관리.
+4. 소외되는 팀원과 소통 후 본인의 역활 분담해서 배정. 
